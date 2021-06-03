@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lord Deputy and Council. Tyrconnell. Whereas his sacred majesty, by the advice of his Privy Councel in England, hath lately issued a proclamation forbidding every person or persons ... from entring into, or listing themselves in the service of pay of any forreign prince or state. Which proclamation followeth in these words. By the King. A proclamation. Prohibiting his Majesites subjects to enter into the service of forreign princes and states. ...</title>
+            <author>Ireland. Lord Deputy (1687-1689 : Tyrconnel)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24803</idno><idno type="EEBO-CITATION">99886351</idno>
+  <idno type="VID">186609</idno>
+  <idno type="EEBO-PROQUEST">2264215157</idno>
+  
+            <idno type="STC">Wing I811</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[37]</idno>
+            <idno type="STC">Interim Tract Supplement Guide G.6022[35]</idno>
+            <idno type="STC">ESTC R225879</idno>
+            <idno type="PROQUEST">ocm99886351</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886351e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24803)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186609)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[37]; C23:1[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lord Deputy and Council. Tyrconnell. Whereas his sacred majesty, by the advice of his Privy Councel in England, hath lately issued a proclamation forbidding every person or persons ... from entring into, or listing themselves in the service of pay of any forreign prince or state. Which proclamation followeth in these words. By the King. A proclamation. Prohibiting his Majesites subjects to enter into the service of forreign princes and states. ...</title>
+                  <author>Ireland. Lord Deputy (1687-1689 : Tyrconnel)</author>
+                  <author>Tyrconnel, Richard Talbot, Earl of, 1630-1691.</author>
+                  <author>James II, King of England, 1633-1701.</author>
+                  <author>England and Wales. Sovereign (1685-1688 : James II). Proclamation. Prohibiting his Majesites subjects to enter into the service of forreign princes and states.</author>
+               </titleStmt>
+               <extent>3 sheets ([3] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook and Samuel Helsham, assigns of Benjamin Tooke printer to the King's most excellent Majesty; and are to be sold by Andrew Cooke at his Majesties printing-house on Ormonde-Key, and by Samuel Helsham at the Colledge-Arms in Castle-street.,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening lines of text.</note>
+                  <note>"Given at the Councel Chamber in Dublin, the 4th day of April 1688.</note>
+                  <note>Arms 186.</note>
+                  <note>Recites proclamation 2 March 1687/8. The Lord Deputy and Council print it to hinder any Irish subject enlisting in foreign service. Cf. Steele.</note>
+                  <note>Item at reel C23:1[35] imperfect: lacking final leaf.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  1688-1689 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186609:1"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>BY THE LORD DEPUTY AND COUNCIL.</head>
+            <opener>
+               <signed>TYRCONNELL.</signed>
+            </opener>
+            <p>WHEREAS His Sacred Majesty, by the Advice of His Privy Councel in <hi>England,</hi> hath lately issued a Proclamation forbidding every Person or Persons of what quality, degree or condition soever, being His Majesties Natu<g ref="char:EOLhyphen"/>ral born Subjects, from entring into, or listing themselves in the Service or Pay of any Forreign Prince or State. Which Proclamation followeth in these words.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="royal_proclamation">
+                        <head>By the KING. A PROCLAMATION. Prohibiting His Majesties Subjects to Enter into the Service of Forreign Princes and States.</head>
+                        <opener>
+                           <signed>JAMES R.</signed>
+                        </opener>
+                        <p>WHEREAS the King's Most Excellent Majesty hath been Ad<g ref="char:EOLhyphen"/>vertised that divers of His Majesties Natural born Subjects, as well Mariners as others, have and daily do depart this King<g ref="char:EOLhyphen"/>dom, and betake themselves to the Service of Forreign Princes and States without License had and obtained in that behalf from His Ma<g ref="char:EOLhyphen"/>jesty, in manifest contempt of His Royal Authority, tending to the dis-service of His Majesty, and prejudice of His Kingdoms, Dominions and Countreys:
+<pb facs="tcp:186609:2"/> for redress whereof, for the present, and for the preventing the like mischief for the future, the King's Most Excellent Majesty by this His Royal Pro<g ref="char:EOLhyphen"/>clamation, by and with the Advice of His Privy Councel, doth straightly prohibit and forbid all and every person and persons of what quality, degree or condition soever (being His Majesties Natural born Subjects) from En<g ref="char:EOLhyphen"/>tring into, or listing themselves in the Service or Pay of any Forreign Prince or State; And doth hereby straightly Charge and Command them, and eve<g ref="char:EOLhyphen"/>ry of them, upon their bounden and known Duty and Allegiance, that they or any of them do not from henceforth withdraw him or themselves, or depart from this His Majesties Kingdom of <hi>England,</hi> or any other His Majesties Realms or Dominions, for or in order to the entring or listing him or them<g ref="char:EOLhyphen"/>selves into Pay, or otherwise betake him or themselves to the Service of any Forreign Prince or State either by Sea or Land, without due License first had and obtained in that behalf: To all which His Majesty will expect, and doth require due obedience and conformity; And doth hereby publish and de<g ref="char:EOLhyphen"/>clare, that all Offenders to the contrary, shall not only incurr His Majesties just displeasure, but be proceeded against by seizure of their Goods, Persons and Estates; and otherwise according to the utmost severity of Law.</p>
+                        <p>And further his Majesty doth hereby authorize and command all and eve<g ref="char:EOLhyphen"/>ry his Governors and other Officers of his Ports, and all and every the Cap<g ref="char:EOLhyphen"/>tains, Masters and other Officers, serving and imployed in any of his Ma<g ref="char:EOLhyphen"/>jesties Ships or Vessels at sea, and all other his Majesties Subjects whatso<g ref="char:EOLhyphen"/>ever whom it may concern from time to time to stop and make stay of all &amp; every such person and persons as shall endeavor to Transport, or to Enter or List him or themselves into the service of any Forreign Prince or State by Sea or by L<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>d contrary to the true intent and meaning of this his Majesties Royal Proclamation. And also to seize upon, take and bring back all such persons a<g ref="char:EOLhyphen"/>foresaid as shall endeavor or attempt to transport or to enter or list him or them<g ref="char:EOLhyphen"/>selves in the service of any Forreign Prince or State as aforesaid, either by Sea or Land, as they his Majesties said Officers, Commanders, and Subjects, will answer the contrary at their utmost Perils.</p>
+                        <closer>
+                           <dateline>Given at Our Court at <hi>White-Hall</hi>
+                              <date>the second day of <hi>March</hi> 1687/8 in the fourth year of Our Reign.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And whereas his Majesty hath lately signified his pleasure unto Vs, the Lord Deputy that we should give strict Order for the Stopping of all per<g ref="char:EOLhyphen"/>sons, being his Majesties Natural born Subjects, who should endeavour to go into the Service of any Forreign Prince or State, without leave contra<g ref="char:EOLhyphen"/>ry to the said Proclamation, wherefore We the Lord Deputy and Councel thought fit to cause the said Proclamation to be herein inserted, to be thereby further published for the better Information of his Majesties Subjects of this Kingdom, Now we the Lord Deputy and Councel doe hereby strictly Charge, Require and Command, all person and persons whatsoever, being his Majesties natural born Subjects of this Realm to give due obedi<g ref="char:EOLhyphen"/>ence to the said Proclamation, under the penalties therein contained; And We do further Authorize and Command all Magistrates of Cities and Towns, and all Officers of his Majesties Ports within this Realm, and all other his Majesties Subjects of this his Majesties Kingdom whom it
+<pb facs="tcp:186609:3"/> may concern from time to time to stop and make stay of all and every his Majesties Subjects of this Realm as shall endeavor or attempt to tran<g ref="char:EOLhyphen"/>sport or to Enter or List themselves in the service of any Forreign Prince or State by Sea or by Land without Licence first had and obtained in that behalf, contrary to the true intent and meaning of his Majesties said Roy<g ref="char:EOLhyphen"/>al Proclamation, and also to seize upon, take and bring back all such person or persons aforesaid, as shall endeavor or attempt to Transport or to Enter or List him or themselves in the service of any Forreign Prince or State as a<g ref="char:EOLhyphen"/>foresaid, either by Sea or Land, as they the said Magistrates, Officers and Subjects will answer the contrary at their utmost Perils.</p>
+            <closer>
+               <dateline>Given at the Councel Chamber in <hi>Dublin,</hi>
+                  <date>the 4<hi>th</hi> day of <hi>April</hi> 1688.</date>
+               </dateline>
+               <signed>A Fytton C. Granard, Gormanston, Fitzharding, Mountjoy, Bu. Talbot, John Davys, Will: Talbot, Tho. Newcomen.</signed>
+               <lb/> God Save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>DUBLIN, Printed by <hi>Andrew Crook</hi> and <hi>Samuel Helsham,</hi> Assigns of <hi>Benjamin Tooke</hi> Printer to the Kings most Excellent Majesty; and are to be Sold by <hi>Andrew Crook</hi> at His Majesties Printing-house on <hi>Ormonde-Key,</hi> and by <hi>Samuel Helsham</hi> at the <hi>Colledge-Arms</hi> in <hi>Castle-street.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
